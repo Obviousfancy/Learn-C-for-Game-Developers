@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\FilesChanges\Documentos\Proyectos\VisualStudio\Learn C++ for Game Developers\WhileLoops\WhileLoops\Source.cpp(34,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+  WhileLoops.vcxproj -> C:\FilesChanges\Documentos\Proyectos\VisualStudio\Learn C++ for Game Developers\WhileLoops\x64\Debug\WhileLoops.exe
